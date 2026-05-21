@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except these documentation files
+!.gitignore
+!README.md
+!README_ZH.md
+!README_JA.md
+!DISCLAIMER.md
+!LICENSE
+!kakuti-resume.mp4
+!demo-thumb.jpg
