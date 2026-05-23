@@ -1,6 +1,6 @@
-# SmartResume - 现代简历编辑器
+# KakutiResume - 现代简历编辑器
 
-SmartResume 是一个基于浏览器的、无需后端的简历编辑器。它结合了 **Notion 式的编辑体验** 和 **Typst 强大的排版能力**，为您提供实时预览、高性能 PDF 生成以及现代化的简历模板。
+KakutiResume 是一个基于浏览器的、无需后端的简历编辑器。它结合了 **Notion 式的编辑体验** 和 **Typst 强大的排版能力**，为您提供实时预览、高性能 PDF 生成以及现代化的简历模板。
 
 **🌐 在线使用: [https://resume.kakuti.site/](https://resume.kakuti.site/)**
 

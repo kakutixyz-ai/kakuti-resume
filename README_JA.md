@@ -1,6 +1,6 @@
-# SmartResume - モダンな履歴書エディタ
+# KakutiResume - モダンな履歴書エディタ
 
-SmartResumeは、ブラウザベースでバックエンド不要の履歴書エディタです。**Notion風の編集体験**と**Typstの強力な組版能力**を組み合わせ、リアルタイムプレビュー、高性能なPDF生成、そしてモダンなテンプレートを提供します。
+KakutiResumeは、ブラウザベースでバックエンド不要の履歴書エディタです。**Notion風の編集体験**と**Typstの強力な組版能力**を組み合わせ、リアルタイムプレビュー、高性能なPDF生成、そしてモダンなテンプレートを提供します。
 
 **🌐 オンラインで試す: [https://resume.kakuti.site/](https://resume.kakuti.site/)**
 

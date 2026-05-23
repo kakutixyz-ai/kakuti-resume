@@ -1,8 +1,8 @@
-# SmartResume — Modern Resume Editor
+# KakutiResume — Modern Resume Editor
 ## 🌐 Live Site: [resume.kakuti.site](https://resume.kakuti.site/)
 https://github.com/user-attachments/assets/8bbed2f0-304f-4ae3-a38d-eeec7b8676bc
 
-SmartResume is a **fully browser-based, backend-less resume editor** that combines a **Notion-style block editor** with the **Typst typesetting engine** compiled to WebAssembly. Create, edit, and export professional resumes — all running locally in your browser with zero server dependencies.
+KakutiResume is a **fully browser-based, backend-less resume editor** that combines a **Notion-style block editor** with the **Typst typesetting engine** compiled to WebAssembly. Create, edit, and export professional resumes — all running locally in your browser with zero server dependencies.
 
 **Three things that make it special:**
 - 📄 **Auto-parse PDF resumes** — Upload an existing PDF and the editor automatically extracts content into editable blocks, no manual retyping needed.
